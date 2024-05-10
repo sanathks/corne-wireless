@@ -50,10 +50,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&trans  &trans             &trans           &trans            &trans            &trans              &trans                 &trans    &trans        &trans     &trans  &kp BSPC
-&trans  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp K_PREVIOUS    &kp K_PLAY_PAUSE  &kp C_NEXT          &kp LEFT               &kp DOWN  &kp UP_ARROW  &kp RIGHT  &trans  &trans
-&trans  &trans             &trans           &trans            &trans            &trans              &trans                 &trans    &trans        &trans     &trans  &trans
-                                            &kp LEFT_CONTROL  &mo 3             &kp LEFT_COMMAND    &mt RIGHT_SHIFT SPACE  &trans    &kp RET
+&trans  &trans        &trans        &trans            &trans        &trans              &trans                 &trans    &trans        &trans     &trans  &kp BSPC
+&trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3      &kp NUMBER_4  &kp N5              &kp LEFT               &kp DOWN  &kp UP_ARROW  &kp RIGHT  &trans  &trans
+&trans  &trans        &trans        &trans            &trans        &trans              &trans                 &trans    &trans        &trans     &trans  &trans
+                                    &kp LEFT_CONTROL  &mo 3         &kp LEFT_COMMAND    &mt RIGHT_SHIFT SPACE  &trans    &kp RET
             >;
         };
 
